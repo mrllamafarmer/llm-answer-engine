@@ -11,4 +11,4 @@ services:
 #    volumes:
 #      - $PWD/config.tsx:/home/node/app/config/config.tsx:ro
     ports:
-      - 3000:3000
+      - 3015:3015
