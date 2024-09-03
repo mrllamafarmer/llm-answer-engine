@@ -1,6 +1,6 @@
 FROM node
 
-EXPOSE 3000/tcp
+EXPOSE 3015/tcp
 
 RUN apt-get update && \
 apt-get upgrade -y && \
